@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MegaBlida
-- 👀 I’m interested in Frontend and Backend development
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in be a Data Analyst
+- 🌱 I’m currently learning Python and SQL
 - 📫 How to reach me at markusblidfors@gmail.com
 
 <!---
